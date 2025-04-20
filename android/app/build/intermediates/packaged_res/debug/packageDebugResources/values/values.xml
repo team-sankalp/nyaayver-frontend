@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <string name="REACT_APP_BASE_URL" translatable="false">"https://nyaayveer-backend.onrender.com/"</string>
+    <string name="app_name">Nyaayveer</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>
