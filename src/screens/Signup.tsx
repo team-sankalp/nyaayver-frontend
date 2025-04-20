@@ -129,7 +129,7 @@ const Signup = ({ navigation }: SignupScreenProps) => {
             setId(text);
           }}
           placeholderTextColor="#000"
-          placeholder="Enter your Badge Number"
+          placeholder="Enter your Unique ID"
           style={styles.input}
         />
         <TextInput
@@ -149,7 +149,7 @@ const Signup = ({ navigation }: SignupScreenProps) => {
             setPoliceStaitionId(text);
           }}
           placeholderTextColor="#000"
-          placeholder="Enter Police Station Code"
+          placeholder="Enter Postal Code"
           style={styles.input}
         />
         <TextInput

@@ -43,10 +43,10 @@ const Login = ({navigation}: LoginScreenProps) => {
         source={require('../../assets/logo.png')}
         style={styles.logo}
       />
-      <Text style={styles.title}>LogIn to Start</Text>
+      <Text style={styles.title}>Login to Start</Text>
 
       
-      <Text style={styles.label}>Badge Number</Text>
+      <Text style={styles.label}>Unique ID</Text>
       <TextInput 
         style={styles.input}
         value={id}
@@ -54,7 +54,7 @@ const Login = ({navigation}: LoginScreenProps) => {
           setError('');
           setid(text);
         }}
-        placeholder="Enter Email"
+        placeholder="Enter Unique ID"
         placeholderTextColor="#000"
       />
 
@@ -78,7 +78,7 @@ const Login = ({navigation}: LoginScreenProps) => {
         <Text style={styles.loginText}>Login</Text>
       </TouchableOpacity>
 
-      <Text style={styles.signupText}>Don’t have an account?</Text>
+      <Text style={styles.signupText}>Don't have an account?</Text>
       <TouchableOpacity
         onPress={() => navigation.navigate('Signup')}>
         <Text style={styles.signupLink}>Sign Up</Text>
