@@ -1,23 +1,3 @@
----
-
-# ⚖️ NyaayVeer – Application Backend (Node.js)
-
-Welcome to the **main backend** of **NyaayVeer**, the powerful mobile app built to help users understand their legal rights through technology.
-Expand
-README.md
-4 KB
-Soudip36 — 01:43 PM
-Devojyoti Misra — 01:48 PM
-
----
-
-# 📱 NyaayVeer – Mobile Frontend
-
-Welcome to the official **frontend** for **NyaayVeer**, a mobile application designed to assist users in understanding criminal law by providing relevant sections from the **Bharatiya Nyaya Sanhita (BNS)** based on user-submitted case descriptions.
-Expand
-README.md
-2 KB
-﻿
 
 ---
 
